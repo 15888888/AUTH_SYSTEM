@@ -1,25 +1,12 @@
 {
   "admin": [
     {
-      "username": "Gratis",
-      "password": "$2a$12$6IEzwDzFx4vSvnq3mAqMmuBRi8RThR3NOHXpYCOIZWbhDB.cLZ0Wa",
+      "username": "mohal",
+      "password": "$2a$12$sPx445gPXwBzddhzY0x/YeyCtquuHKSQIk86Wuqaq3HBphRy3ML5u",
       "subscription": "aimkillapk",
       "expiry": "2025-09-15",
       "device_id": ""
-    },
-    {
-      "username": "Adi",
-      "password": "$2a$12$6IEzwDzFx4vSvnq3mAqMmuBRi8RThR3NOHXpYCOIZWbhDB.cLZ0Wa",
-      "subscription": "aimkillapk",
-      "expiry": "2028-03-03",
-      "device_id": ""
-    },
-    {
-      "username": "ML",
-            "password": "$2a$12$6IEzwDzFx4vSvnq3mAqMmuBRi8RThR3NOHXpYCOIZWbhDB.cLZ0Wa",
-            "subscription": "aimkillapk",
-            "expiry": "2025-09-15",
-            "device_id": ""
     }
-  ]
+]
+  
 }
