@@ -6,7 +6,7 @@
       "subscription": "aimkillapk",
       "expiry": "2025-09-15",
       "device_id": ""
-    },
+    }
  }
   
 }
